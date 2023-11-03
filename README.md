@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @malik759
 - my Work
-- fun work
+- javascript html css
   
         
 
